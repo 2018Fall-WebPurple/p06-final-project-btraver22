@@ -1,0 +1,56 @@
+/* Name: Brooke Traver
+*  Date: 1/8/19
+*  Elizabeth Blackwell */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px ;
+    background-color: #fff1d5;
+    margin: 15px auto;
+    border: 1px solid #4639ff;
+}
+
+h1 {
+    padding: 10px;
+}
+
+header {
+    border-bottom: 2px solid #ff4750;
+    text-align: center;
+    width: 1000px;
+    
+     font-family: inherit, cursive, fantasy;
+     
+   
+}
+
+#accomp {
+    width: 200px;
+    height: 500 px;
+    float: left;
+    border-right: 3px solid #ff4750;
+}
+
+main {
+    height: 400 px;
+    width: 500 px;
+    float: left;
+   
+}
+
+
+#Trivia {
+     
+     width: 200px;
+    height: 500px;
+    float: right;
+    border-left: 3px solid #ff4750;
+}
+footer {
+    clear: both;
+    border-top: 2px solid #ff4750;
+}

@@ -1,0 +1,84 @@
+/* Name: Brooke Traver
+*  Date: 1/8/19
+*  Elizabeth Blackwell */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 95% ;
+  
+    background-color: #fff1d5;
+    margin: 15px auto;
+    border: 1px solid #4639ff;
+}
+
+h1 {
+    padding: 10px;
+}
+
+header {
+    border-bottom: 3px solid #4F6367;
+    text-align: center;
+   
+    
+     font-family: inherit, cursive, fantasy;
+    
+    background-color: #B8D8D8;
+     
+   
+}
+
+#accomp {
+    width: 20%;
+    height: 900px;
+    float: left;
+    border-right: 3px solid #4F6367;
+    background-color: #7A9E9F;
+}
+#portrait {
+    
+    float: right;
+}
+
+/* I identified my photo, and then floated it right so that it would appear to the right of the text. */
+
+main {
+    height: 900px;
+    width: 59%; 
+    float: left;
+    border-right: 3px solid #4F6367;
+    background-color: #EEF5DB;
+}
+
+/* I gave my main a background color that I found in a color wheel. */
+
+#Trivia {
+     
+    width: 20%; 
+    height: 900px;
+    padding-left: 4px;
+    float: right;
+    border-left: 3px solid #4F6367;
+    text-align: center;
+    background-color: #7A9E9F;
+    
+}
+
+/* I gave this section a border on the left side only so it would be seperated from the main body. */
+    
+    #bed {
+        
+        width: 95%;
+        height: 100%;
+    }
+    
+   
+}
+footer {
+    clear: both;
+    border-top: 2px solid #4F6367;
+    background-color: #B8D8D8;
+}
